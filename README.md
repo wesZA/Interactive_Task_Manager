@@ -5,10 +5,10 @@ This code implements a simple task management system that includes functionaliti
 1. User logs in.
 2. Depending on their role (admin or regular user), they can:
 
-Add a task.
-View all tasks.
-View and manage their tasks.
-Admins can also register new users, generate reports, and display statistics.
+1. Add a task.
+2. View all tasks.
+3. View and manage their tasks.
+4. Admins can also register new users, generate reports, and display statistics.
 
 Reports provide an overview of tasks and user assignments.
 
